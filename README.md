@@ -1,4 +1,4 @@
-                                                    **Credit Card Financial Reports**
+                                         **Credit Card Financial Dashboards**
 
 **Project Summary :**
 Developed a comprehensive credit card weekly dashboard leveraging SQL, Excel, Power BI. 
