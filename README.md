@@ -1,6 +1,6 @@
                                                     **Credit Card Financial Reports**
 
-**Project Objective Summary**
+**Project Summary :**
 Developed a comprehensive credit card weekly dashboard leveraging SQL, Excel, Power BI. 
 The dashboard provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
